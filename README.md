@@ -12,13 +12,13 @@ yang panjang.
 
 <h1 align="center">B. Analisis Perlindungan HAKI Produk</h1>
 1. Hak Cipta (Copyright):
-○ Objek Yang Dilindungi:
+<p>○ Objek Yang Dilindungi:<p>
 <p>■ Kode Sumber (Source Code) Visual code untuk antarmuka pengguna (frontend) dan REST API Node.js (backend).</p>
 <p>■ Desain Antarmuka (UI/UX Design) yang dibuat menggunakan Canva (file layout, skema warna, dan ikon kustom).</p>
 <p>■ Dokumen Petunjuk Penggunaan (User Manual) berbentuk Web untuk pengguna.</p>
 ○ Pernyataan Hak Cipta: Hak Cipta © 2026 oleh M. Rifki Rohmat. Seluruh hak
 dilindungi undang-undang.
-2. Merek (Trademark):
+<p>2. Merek (Trademark):</p>
 <p>○ Nama Brand: Saung Sambal<p>
 <p>○ Logo & Elemen Visual: Logo ikon berbentuk lingkaran, berwarna hijau tua dan hijau
 muda dengan gambar kelapa yang minimalis serta daun yang indah.</p>
